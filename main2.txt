@@ -1,1 +1,1 @@
-This is the write commandIt allows us to write in a particular filethis will add line to the existing file
+Este es el comando de escritura nos permite escribir en un archivo en particular, esto agregará una línea al archivo existente
