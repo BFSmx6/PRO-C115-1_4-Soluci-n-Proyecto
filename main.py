@@ -5,7 +5,7 @@ import os
 # Ruta del archivo source - (fuente)
 source = 'main.txt'
   
-# destination file path
+# Ruta de archivo de destino
 dest = 'newfile.txt'
   
   
