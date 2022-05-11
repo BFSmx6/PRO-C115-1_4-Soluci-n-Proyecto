@@ -9,7 +9,7 @@ source = 'main.txt'
 dest = 'newfile.txt'
   
   
-# Ahora renombra la ruta source
+# Ahora renombra la ruta de origen
 # Ruta de destino
 # Usa el método os.rename() 
 os.rename(source, dest)
