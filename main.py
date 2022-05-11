@@ -2,7 +2,7 @@
 import os
   
   
-# Ruta del archivo source - (fuente)
+# Ruta del archivo de origen.
 source = 'main.txt'
   
 # Ruta de archivo de destino
@@ -13,4 +13,4 @@ dest = 'newfile.txt'
 # Ruta de destino
 # Usa el método os.rename() 
 os.rename(source, dest)
-print("La ruta Source fue renombrada ruta de destino exitosamente.")
+print("La ruta de origen fue renombrada ruta de destino exitosamente.")
